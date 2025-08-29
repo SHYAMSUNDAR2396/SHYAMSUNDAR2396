@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHYAMSUNDAR2396)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHYAMSUNDAR2396&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SHYAMSUNDAR2396/SHYAMSUNDAR2396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
