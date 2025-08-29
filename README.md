@@ -4,177 +4,139 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI+Enthusiast;Problem+Solver;Linux+Aficionado&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 </div>
 
-<table>
-<tr>
-<td width="50%">
-
-## 🚀 About Me
-> *"Code is poetry written in logic."*
-
-I'm a passionate **Full-Stack Developer** and **AI Enthusiast** who loves turning complex problems into elegant solutions.
-
-- 🔭 **Current Projects:** JetPartner & CITIL Projects
-- 🌱 **Learning:** Advanced AI/ML techniques
-- 💡 **Interests:** AI, Linux, Full-Stack Dev, C++
-- 🎯 **Goal:** Building innovative solutions
-- ⚡ **Fun Fact:** Debug with coffee, deploy with confidence!
-
-</td>
-<td width="50%">
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-
-**Frontend:**  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-
-**DevOps:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-## 📊 GitHub Analytics
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=SHYAMSUNDAR2396&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SHYAMSUNDAR2396&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHYAMSUNDAR2396&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
-</td>
-<td width="50%">
-
-### 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=SHYAMSUNDAR2396&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=3&row=2)](https://github.com/SHYAMSUNDAR2396)
-
-</td>
-</tr>
-</table>
-
-## 🚀 Featured Projects & Activity
-
-<table>
-<tr>
-<td width="33%">
-<a href="https://github.com/SHYAMSUNDAR2396/JetPartner">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SHYAMSUNDAR2396&repo=JetPartner&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" alt="JetPartner" />
-</a>
-</td>
-<td width="33%">
-<a href="https://github.com/SHYAMSUNDAR2396/CITIL_Incubation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SHYAMSUNDAR2396&repo=CITIL_Incubation&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" alt="CITIL Incubation" />
-</a>
-</td>
-<td width="33%">
-
-### 📈 Quick Stats
-![](https://github-readme-stats.vercel.app/api/wakatime?username=SHYAMSUNDAR2396&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=compact)
-
-**This Week:**
-- 🔥 Commits: ![](https://img.shields.io/badge/dynamic/json?color=F85D7F&label=&query=%24.weeks.-1.total&url=https://github-readme-stats.vercel.app/api?username=SHYAMSUNDAR2396&show_icons=true&theme=radical&format=json)
-- 📊 Active Days: 5/7
-- ⭐ Stars Earned: 12
-
-</td>
-</tr>
-</table>
-
 <div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHYAMSUNDAR2396&bg_color=0D1117&color=FFFFFF&line=F85D7F&point=F8D866&area=true&hide_border=true&height=250)
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=SHYAMSUNDAR2396&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/SHYAMSUNDAR2396)
 
 </div>
 
-## 🌟 Highlights & Extras
+---
 
-<table>
-<tr>
-<td width="25%">
+## 🚀 About Me
 
-### 💼 Current Focus
-- 🚀 JetPartner Platform
-- 🏢 CITIL Innovation Hub
-- 🤖 AI/ML Integration
-- 🐧 Linux Optimization
+> *"Code is poetry written in logic."*
 
-</td>
-<td width="25%">
+I'm a passionate **Full-Stack Developer** and **AI Enthusiast** who loves turning complex problems into elegant solutions. Currently working on exciting projects that blend cutting-edge technology with real-world applications.
 
-### 🎯 2024 Goals
-- ✅ 500+ Commits
-- ✅ 5 Major Projects
-- 🔄 10 Open Source PRs
-- 🔄 AWS Certification
+- 🔭 **Current Projects:** JetPartner & CITIL Projects
+- 🌱 **Learning:** Advanced AI/ML techniques and system optimization
+- 💡 **Interests:** Artificial Intelligence, Linux Systems, Full-Stack Development, C++ Problem Solving
+- 🎯 **Goal:** Building innovative solutions that make a difference
+- ⚡ **Fun Fact:** I debug with coffee and deploy with confidence!
 
-</td>
-<td width="25%">
+---
 
-### 📚 Learning Path
-- Advanced Algorithms
-- System Design
-- Cloud Architecture
-- AI Model Training
+## 🛠️ Tech Stack
 
-</td>
-<td width="25%">
+<div align="center">
 
-### 🏅 Recent Wins
-- 🥇 Hackathon Winner
-- 🌟 Top Contributor
-- 📝 Tech Blogger
-- 🎤 Conference Speaker
+### Languages
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-</td>
-</tr>
-</table>
+### Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<table>
-<tr>
-<td width="60%">
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 💭 Developer Quote
+### DevOps & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SHYAMSUNDAR2396&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SHYAMSUNDAR2396&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+  
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHYAMSUNDAR2396&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHYAMSUNDAR2396&bg_color=0D1117&color=FFFFFF&line=F85D7F&point=F8D866&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/SHYAMSUNDAR2396/JetPartner">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SHYAMSUNDAR2396&repo=JetPartner&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" alt="JetPartner" />
+</a>
+
+<a href="https://github.com/SHYAMSUNDAR2396/CITIL_Incubation">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SHYAMSUNDAR2396&repo=CITIL_Incubation&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" alt="CITIL Incubation" />
+</a>
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=SHYAMSUNDAR2396&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/SHYAMSUNDAR2396)
+
+</div>
+
+---
+
+## 💭 Developer Quote
+
+<div align="center">
+  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+best+error+message+is+the+one+that+never+shows+up&author=Thomas+Fuchs)
 
-</td>
-<td width="40%">
+</div>
 
-### 🤝 Let's Connect
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHYAMSUNDAR2396)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SHYAMSUNDAR2396&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/SHYAMSUNDAR2396)
-
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
+  
+**Thanks for visiting! 😄**
 
-**Thanks for visiting! 😄** *"Building the future, one commit at a time."*
+*"Building the future, one commit at a time."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
 
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
