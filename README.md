@@ -1,92 +1,142 @@
-# Hi there 👋, I'm Shyam Sundar  
+# Hi there, I'm Shyam Sundar 👋
 
-💻 Full-Stack Developer | ⚡ Linux Enthusiast | 🤖 AI Explorer  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI+Enthusiast;Problem+Solver;Linux+Aficionado&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+</div>
 
-I love building scalable apps, experimenting with AI/ML, and contributing to open-source.  
+<div align="center">
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=SHYAMSUNDAR2396&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/SHYAMSUNDAR2396)
 
----
-
-## 🚀 About Me  
-- 🔭 Currently working on: **JetPartner (Logistics App)** & **CITIL Projects**  
-- 🌱 Learning: **AI Agents, RAG, and System Design**  
-- 💬 Ask me about: **React, Node.js, Linux, and C++ Problem Solving**  
-- 📚 Currently reading: *Designing Data-Intensive Applications*  
-- ⚡ Fun fact: I love trekking and capturing astrophotography ✨  
+</div>
 
 ---
 
-## ⚡ Tech Stack  
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+> *"Code is poetry written in logic."*
 
----
+I'm a passionate **Full-Stack Developer** and **AI Enthusiast** who loves turning complex problems into elegant solutions. Currently working on exciting projects that blend cutting-edge technology with real-world applications.
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHYAMSUNDAR2396&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHYAMSUNDAR2396&theme=radical&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHYAMSUNDAR2396&layout=compact&theme=radical&hide_border=true" height="180"/>
-</p>
+- 🔭 **Current Projects:** JetPartner & CITIL Projects
+- 🌱 **Learning:** Advanced AI/ML techniques and system optimization
+- 💡 **Interests:** Artificial Intelligence, Linux Systems, Full-Stack Development, C++ Problem Solving
+- 🎯 **Goal:** Building innovative solutions that make a difference
+- ⚡ **Fun Fact:** I debug with coffee and deploy with confidence!
 
 ---
 
-## 📌 Pinned Projects  
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://github.com/SHYAMSUNDAR2396/JetPartner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHYAMSUNDAR2396&repo=JetPartner&theme=radical" />
-  </a>
-  <a href="https://github.com/SHYAMSUNDAR2396/CITIL_Incubation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHYAMSUNDAR2396&repo=CITIL_Incubation&theme=radical" />
-  </a>
-</p>
+<div align="center">
 
----
+### Languages
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 🏆 GitHub Trophies  
+### Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SHYAMSUNDAR2396&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</p>
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### DevOps & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 📈 Activity Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHYAMSUNDAR2396&theme=radical&hide_border=true" />
-</p>
-
----
-
-## ✨ Fun Widgets  
-
-- ⏳ *Coding Time (via WakaTime)*  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=radical&hide_border=true" />  
-
-- 🎯 *Random Dev Quote*  
-  <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /></p>  
-
-- 👀 *Profile Views*  
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=SHYAMSUNDAR2396&label=Profile%20views&color=ff69b4&style=flat" alt="profile views"/></p>  
+</div>
 
 ---
 
-## 🌐 Connect With Me  
+## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://linkedin.com/in/ShyamSundarM"><img src="https://img.shields.io/badge/-Shyam%20Sundar-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://github.com/SHYAMSUNDAR2396"><img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github"/></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SHYAMSUNDAR2396&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SHYAMSUNDAR2396&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+  
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHYAMSUNDAR2396&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHYAMSUNDAR2396&bg_color=0D1117&color=FFFFFF&line=F85D7F&point=F8D866&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/SHYAMSUNDAR2396/JetPartner">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SHYAMSUNDAR2396&repo=JetPartner&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" alt="JetPartner" />
+</a>
+
+<a href="https://github.com/SHYAMSUNDAR2396/CITIL_Incubation">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SHYAMSUNDAR2396&repo=CITIL_Incubation&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" alt="CITIL Incubation" />
+</a>
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=SHYAMSUNDAR2396&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/SHYAMSUNDAR2396)
+
+</div>
+
+---
+
+## 💭 Developer Quote
+
+<div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+best+error+message+is+the+one+that+never+shows+up&author=Thomas+Fuchs)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHYAMSUNDAR2396)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+<div align="center">
+  
+**Thanks for visiting! 😄**
+
+*"Building the future, one commit at a time."*
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
