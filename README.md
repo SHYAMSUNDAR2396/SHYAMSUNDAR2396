@@ -1,7 +1,11 @@
 # Hi there, I'm Shyam Sundar 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI+Enthusiast;Problem+Solver;Linux+Aficionado&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Problem+Solver&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Linux+Aficionado&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+  
 </div>
 
 <div align="center">
@@ -78,45 +82,6 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** who loves turnin
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHYAMSUNDAR2396&bg_color=0D1117&color=FFFFFF&line=F85D7F&point=F8D866&area=true&hide_border=true)
 
 </div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/SHYAMSUNDAR2396/JetPartner">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SHYAMSUNDAR2396&repo=JetPartner&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" alt="JetPartner" />
-</a>
-
-<a href="https://github.com/SHYAMSUNDAR2396/CITIL_Incubation">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SHYAMSUNDAR2396&repo=CITIL_Incubation&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" alt="CITIL Incubation" />
-</a>
-
-</div>
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=SHYAMSUNDAR2396&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/SHYAMSUNDAR2396)
-
-</div>
-
----
-
-## 💭 Developer Quote
-
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+best+error+message+is+the+one+that+never+shows+up&author=Thomas+Fuchs)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
