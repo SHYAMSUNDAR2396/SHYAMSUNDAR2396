@@ -45,25 +45,6 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** who loves turnin
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SHYAMSUNDAR2396&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SHYAMSUNDAR2396&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-  
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHYAMSUNDAR2396&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHYAMSUNDAR2396&bg_color=0D1117&color=FFFFFF&line=F85D7F&point=F8D866&area=true&hide_border=true)
-
-</div>
 </div>
 
 ---
