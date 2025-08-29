@@ -17,18 +17,7 @@
 ---
 
 ## 🚀 About Me
-
-> *"Code is poetry written in logic."*
-
 I'm a passionate **Full-Stack Developer** and **AI Enthusiast** who loves turning complex problems into elegant solutions. Currently working on exciting projects that blend cutting-edge technology with real-world applications.
-
-- 🔭 **Current Projects:** JetPartner & CITIL Projects
-- 🌱 **Learning:** Advanced AI/ML techniques and system optimization
-- 💡 **Interests:** Artificial Intelligence, Linux Systems, Full-Stack Development, C++ Problem Solving
-- 🎯 **Goal:** Building innovative solutions that make a difference
-- ⚡ **Fun Fact:** I debug with coffee and deploy with confidence!
-
----
 
 ## 🛠️ Tech Stack
 
