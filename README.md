@@ -58,7 +58,7 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** who loves turnin
 
 <div align="center">
   
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHYAMSUNDAR2396&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
+<!-- <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHYAMSUNDAR2396&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" /> -->
 
 </div>
 
