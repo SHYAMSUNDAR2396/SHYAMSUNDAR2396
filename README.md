@@ -49,11 +49,9 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** who loves turnin
 
 ---
 
-## 📊 GitHub Analytics
-
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SHYAMSUNDAR2396&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SHYAMSUNDAR2396&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" /> -->
 </div>
 
 <div align="center">
